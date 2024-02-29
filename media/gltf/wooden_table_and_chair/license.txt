@@ -1,0 +1,11 @@
+Model Information:
+* title:        wooden table and chair
+* source:       https://sketchfab.com/3d-models/wooden-table-and-chair-34a2e47e193443d6bfd23ce1123c03ea
+* author:       Seyed Mohsen (https://sketchfab.com/Seyed.Mohsen)
+
+Model License:
+* license type: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements: Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "wooden table and chair" (https://sketchfab.com/3d-models/wooden-table-and-chair-34a2e47e193443d6bfd23ce1123c03ea) by Seyed Mohsen (https://sketchfab.com/Seyed.Mohsen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
